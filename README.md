@@ -11,10 +11,10 @@ The function for this web application is user is able to register an account, lo
 Is available at localhost:4000
 
 ### Register
-![alt-text](https://ibb.co/b64XSJy)
+![alt-text](https://github.com/calynlow/Login-Application/blob/master/Screenshot/Register.PNG?raw=true)
 ### Database MySQL
-![alt-text](https://ibb.co/xjBXpZB)
+![alt-text](https://github.com/calynlow/Login-Application/blob/master/Screenshot/Database.PNG?raw=true)
 ### Login
-![alt-text](https://ibb.co/jvyR5v6)
+![alt-text](https://github.com/calynlow/Login-Application/blob/master/Screenshot/Login.PNG)
 ### Profile
-![alt-text](https://ibb.co/M1gDTnp)
+![alt-text](https://github.com/calynlow/Login-Application/blob/master/Screenshot/Profile.PNG?raw=true)
